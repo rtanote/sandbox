@@ -1,2 +1,3 @@
 gitのテストファイル
 added
+push 2から実行
